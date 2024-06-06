@@ -1,0 +1,20 @@
+@font-face {
+    font-family: UnifrakturCook;
+    src: url(../fontes/UnifrakturCook/UnifrakturCook-Bold.ttf);
+}
+
+.logo {
+    font-family: UnifrakturCook;
+    font-size: 5rem;
+    color: var(--bs-gray-800);
+}
+
+.V {
+    width: 4em;
+    height: 4em;
+    vertical-align: middle;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.7);
+}
